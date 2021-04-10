@@ -7,3 +7,5 @@ To do List with json server
 
 untuk menjalankan server
 - npm run serve 
+
+Server perlu dijalankan agar data di dalam db.json dapat read & data ketika diinput dapat entry to database server
