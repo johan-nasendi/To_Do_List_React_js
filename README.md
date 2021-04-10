@@ -2,8 +2,8 @@
 To do List with json server 
 
 
--Cd my-app
--npm start
+- Cd my-app
+- npm start
 
 untuk menjalankan server
 - npm run serve 
